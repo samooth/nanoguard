@@ -1,6 +1,6 @@
 {
-  "name": "nanoguard",
-  "version": "1.3.0",
+  "name": "spacenanoguard",
+  "version": "0.0.1",
   "description": "Small module that allows you to guard a call to a function.",
   "main": "index.js",
   "dependencies": {},
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/nanoguard.git"
+    "url": "https://github.com/samooth/nanoguard.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/nanoguard/issues"
+    "url": "https://github.com/samooth/nanoguard/issues"
   },
-  "homepage": "https://github.com/mafintosh/nanoguard"
+  "homepage": "https://github.com/samooth/nanoguard"
 }
